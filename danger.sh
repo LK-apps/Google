@@ -1,0 +1,4 @@
+echo "danger"
+date
+cal
+
